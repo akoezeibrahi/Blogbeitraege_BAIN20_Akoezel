@@ -7,4 +7,4 @@ Es würde mich besonders freuen, einige neuen Tools kennenlernen und Platformen,
 Da ich den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.ch/de/fce-cambridge-english-first) am 13.03.2020 nicht besuchen kann, muss ich einige Registrationen und Installationen nachträglich durchführen.
 
 
-## [Homepage] (https://akoezeibrahi.github.io/Blogbeitraege_BAIN20_Akoezel/)
+## [Homepage](https://akoezeibrahi.github.io/Blogbeitraege_BAIN20_Akoezel/)
