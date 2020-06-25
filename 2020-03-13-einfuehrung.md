@@ -5,3 +5,6 @@ Das Fach "BAIN" gehört zu der Vertiefung "Bibliotheksmanagement", welches ich a
 Es würde mich besonders freuen, einige neuen Tools kennenlernen und Platformen, die uns das Leben bei der Arbeit ein bischen erleichtern können. Es würde mich ehr enttäuschen, wenn es so viele Wiederholungen, die wir bei anderen Modulen vor ein paar Semester gehabt hatten. Bis man sich wieder an der Sache erinnernt, wird die Zeit schon vorbei. Ich bliebe optimistisch und freue mich auf das Modul.
 
 Da ich den Unterricht aufgrund meiner [FCE-Prüfung](https://cambridge-exams.ch/de/fce-cambridge-english-first) am 13.03.2020 nicht besuchen kann, muss ich einige Registrationen und Installationen nachträglich durchführen.
+
+
+## [Homepage] (https://akoezeibrahi.github.io/Blogbeitraege_BAIN20_Akoezel/)
