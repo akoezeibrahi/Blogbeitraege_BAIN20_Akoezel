@@ -17,7 +17,7 @@ Ich hoffe, dass ich euch einige interessanten Beiträge erfasse.
 
 * [Beitrag 5](2020-06-06-tag5.md)
 
-* [Schluss](2020-04-03-tag2.md)
+* [Schluss](2020-06-22-schluss.md)
 
 
 
