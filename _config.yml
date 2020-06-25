@@ -1,1 +1,12 @@
+title: Blog mit den Beiträgen vom Modul "Bibliotheks- und Archivinformatik"
+author: Ibrahim
+email: ibrahim.akoezel@stud.fhgr.ch
+description: > # this means to ignore newlines until "baseurl:"
+  Beitärge für mein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+
+github_username:  akoezeibrahi
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+
 theme: jekyll-theme-merlot
