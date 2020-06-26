@@ -1,8 +1,8 @@
 ## Welcome to my Blog
 
-Ich hoffe, dass ich euch einige interessanten Beiträge erfasse. 
 
-### Inhalte: 
+
+### Beiträge für mein Lerntagebuch: 
 
 
 * [Einführung](2020-03-13-einfuehrung.md)
@@ -21,6 +21,5 @@ Ich hoffe, dass ich euch einige interessanten Beiträge erfasse.
 
 
 
-Vielen Herzlichen Dank für den Beusch und bleib gesund zu Hause.
+Vielen herzlichen Dank für den Besuch und bleiben Sie/bleibt gesund.
 
-Mit freundlichen Grüssen von Ibrahim
